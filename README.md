@@ -1,2 +1,2 @@
 # WebScraping
-Web Scraping With Python, just starting out stuff.
+Web Scraping With Python, just starting out stuff. Some are exercies from 'Automate the Boring Stuff' book.
